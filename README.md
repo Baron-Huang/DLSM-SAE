@@ -1,4 +1,4 @@
-# Tumor Instable-differentiation Representation via Learnable-tensor Diagonal Sparse Metrics boosted-Instance Semi-fuzzy Clustering
+# Learnable-tensor Diagonal Sparse Metrics boosted-Instance Semi-fuzzy Clustering for Continuous Differentiation-inspired Grading
 ## 🧔: Authors [*Corresponding author]
 Pan Huang, _Member_, _IEEE_, and Jing Qin*, _Senior Member_, _IEEE_
 
