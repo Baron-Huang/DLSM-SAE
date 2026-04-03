@@ -1,4 +1,4 @@
-# Diagonal Learnable-tensor Sparse Metrics boosted-Semi-fuzzy Actively Explainable Clustering for Fine-grained Squamous Cell Carcinoma Grading
+# Diagonal Learnable-tensor Sparse Metrics boosted-Semi-fuzzy Actively Explainable Clustering for Squamous Cell Carcinoma Fine-grained Grading
 ## 🧔: Authors [*Corresponding author]
 - Pan Huang, Chentao Li*, and Jing Qin*
 
