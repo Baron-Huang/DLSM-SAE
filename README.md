@@ -1,10 +1,10 @@
 # Learnable-tensor Diagonal Sparse Metrics boosted-Instance Semi-fuzzy Clustering for Continuous Differentiation-inspired Grading
 ## 🧔: Authors [*Corresponding author]
-Pan Huang, _Member_, _IEEE_, and Jing Qin*, _Senior Member_, _IEEE_
+- Pan Huang, Chentao Li*, and Jing Qin*
 
 ## :fire: News
 
-- [2025/12/23] Our manuscript was submitted to _IEEE Transactions on Medical Imaging_.
+- [2026/05/02] Our manuscript was submitted to _Science Advances_.
 
 
 
