@@ -1,4 +1,4 @@
-# Diagonal Learnable-tensor Sparse Metrics boosted-Semi-fuzzy Actively Explainable Clustering for Squamous Cell Carcinoma Fine-grained Grading
+# Human Prior-alignment Multi-instance Clustering Active-circuit for Interactive-explanation Squamous Cell Carcinoma Fine-grained Grading
 ## 🧔: Authors [*Corresponding author]
 - Pan Huang, Chentao Li*, and Jing Qin*
 
