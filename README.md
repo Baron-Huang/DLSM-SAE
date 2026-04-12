@@ -10,7 +10,7 @@
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Learnable-tensor Diagonal Sparse Metrics boosted-Instance Semi-fuzzy Clustering (LDSM-ISC)** method:
+Here's an overview of our **Human Prior-alignment Multi-instance Clustering Active-circuit (HPMCA)** method:
 
 ![Figure 1](./images/xxx.jpg)
 
