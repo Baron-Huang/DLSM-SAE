@@ -1,4 +1,4 @@
-# A Mechanistically Interpretable Pan-squamous Pathology Model Reveals Conserved Differentiation Programs Across Human Cancers
+# A Mechanistically Interpretable Pan-squamous Pathology Multimodal-model Reveals Conserved Differentiation Programs Across Human Cancers
 ## 🧔: Authors [*Corresponding author]
 - Pan Huang, Xinwei Zhang, Lan Wang, Zheng Gu, Guoqing Fu, Yiwen Wang, Xinyu Hao, Mingrui Ma, Francesco Mercaldo, Antonella Stone, Chentao Li*, and Jing Qin*
 
