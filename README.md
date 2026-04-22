@@ -1,16 +1,16 @@
-# Human Prior-alignment Multi-instance Clustering Active-circuit for Interactive-explanation Squamous Cell Carcinoma Fine-grained Grading
+# A Mechanistically Interpretable Pan-squamous Pathology Model Reveals Conserved Differentiation Programs Across Human Cancers
 ## 🧔: Authors [*Corresponding author]
 - Pan Huang, Xinwei Zhang, Lan Wang, Zheng Gu, Guoqing Fu, Yiwen Wang, Xinyu Hao, Mingrui Ma, Francesco Mercaldo, Antonella Stone, Chentao Li*, and Jing Qin*
 
 ## :fire: News
 
-- [2026/06/02] Our manuscript will be submitted to _Nature Medicine (IF 50.0)_.
+- [xxxx/xx/xx] _xxxx_.
 
 
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Human Prior-alignment Multi-instance Clustering Active-circuit (HPMCA)** method:
+Here's an overview of our **Mechanistically Interpretable Pan-squamous Pathology Model (MIPPM)** method:
 
 ![Figure 1](./images/xxx.jpg)
 
