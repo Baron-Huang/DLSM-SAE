@@ -1,4 +1,4 @@
-# A Mechanistically Interpretable Pan-squamous Pathology Foundation Model Reveals Conserved Differentiation Trajectories Across Human Cancers
+# A Mechanistically Interpretable Pan-squamous Pathology World Model Reveals Conserved Differentiation Trajectories Across Human Cancers
 ## 🧔: Authors [*Corresponding author]
 - Pan Huang, Xinwei Zhang, Lan Wang, Zheng Gu, Guoqing Fu, Yiwen Wang, Xinyu Hao, Mingrui Ma, Francesco Mercaldo, Antonella Stone, Chentao Li*, and Jing Qin*
 
