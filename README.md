@@ -1,4 +1,4 @@
-# A Mechanistically Interpretable Pan-squamous Pathology Multimodal-model Reveals Conserved Differentiation Programs Across Human Cancers
+# A Mechanistically Interpretable Pan-squamous Pathology Foundation Model Reveals Conserved Differentiation Trajectories Across Human Cancers
 ## 🧔: Authors [*Corresponding author]
 - Pan Huang, Xinwei Zhang, Lan Wang, Zheng Gu, Guoqing Fu, Yiwen Wang, Xinyu Hao, Mingrui Ma, Francesco Mercaldo, Antonella Stone, Chentao Li*, and Jing Qin*
 
@@ -10,7 +10,7 @@
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Mechanistically Interpretable Pan-squamous Pathology Multimodal-model (MIPPM)** method:
+Here's an overview of our **Mechanistically Interpretable Pan-squamous Pathology Foundation Model (SquaPFM)** method:
 
 ![Figure 1](./images/xxx.jpg)
 
