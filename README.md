@@ -10,7 +10,7 @@
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Mechanistically Interpretable Pan-squamous Pathology Model (MIPPM)** method:
+Here's an overview of our **Mechanistically Interpretable Pan-squamous Pathology Multimodal-model (MIPPM)** method:
 
 ![Figure 1](./images/xxx.jpg)
 
